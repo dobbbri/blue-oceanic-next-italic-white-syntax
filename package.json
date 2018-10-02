@@ -1,0 +1,15 @@
+{
+  "name": "blue-oceanic-next-italic-white-syntax",
+  "theme": "syntax",
+  "version": "0.3.0",
+  "description": "Atom blue bg oceanic-next-italic-white-syntax",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/dobbbri/blue-oceanic-next-italic-white-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
